@@ -3,9 +3,8 @@
 Created on Sun May  3 21:51:50 2020
 
 """
-
-# Harichandana Yeleswaram, yxh180027
-# Raisaat Rashid, rar150430
+# Raisaat Rashid
+# Harichandana Yeleswaram
 
 import numpy as np
 from sklearn.preprocessing import label_binarize
