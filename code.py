@@ -2,7 +2,6 @@
 """
 Created on Sun May  3 21:51:50 2020
 
-@author: jgdch
 """
 
 # Harichandana Yeleswaram, yxh180027
